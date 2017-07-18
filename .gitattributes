@@ -1,0 +1,5 @@
+*.zip binary
+*.jar binary
+*.hpi binary
+*.jpi binary
+*.war binary
