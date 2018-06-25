@@ -1,1 +1,29 @@
 
+# These files are typically stored in <USER_HOME_DIR>/.jenkins/
+cache/
+config-history/
+jobs/
+logs/
+monitoring/
+nodes/
+plugins/*/
+plugins/*.bak
+plugins/*.tmp
+scriptler/
+secrets/
+updates/
+userContent/
+users/
+war/
+workflow-libs/
+.owner
+*.xml
+*.enc
+*.lastExecVersion
+*.state
+*.bak
+*.key
+*.not-so-secret
+*.log
+*.txt
+
