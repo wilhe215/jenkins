@@ -11,6 +11,7 @@ plugins/*.bak
 plugins/*.tmp
 scriptler/
 secrets/
+support/
 updates/
 userContent/
 users/
@@ -26,4 +27,4 @@ workflow-libs/
 *.not-so-secret
 *.log
 *.txt
-
+.lastStarted
