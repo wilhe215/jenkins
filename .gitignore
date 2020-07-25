@@ -1,5 +1,9 @@
 
 # These files are typically stored in <USER_HOME_DIR>/.jenkins/
+.bash_history
+.gitconfig
+.java/
+.viminfo
 cache/
 config-history/
 jobs/
@@ -9,6 +13,7 @@ nodes/
 plugins/*/
 plugins/*.bak
 plugins/*.tmp
+plugins-old/
 scriptler/
 secrets/
 support/
